@@ -8,7 +8,7 @@ int main()
     double fahrenNum;
     double fahrenheit;
     //get celsius # from user 
-    cout << "What celsius temp would you like to convert to?"
+    cout << "What celsius temp would you like to convert to?";
     cin >> celsiusNum;
     //convert to fahrenheit
     fahrenheit = (celsiusNum * (9/5.)) + 32;
