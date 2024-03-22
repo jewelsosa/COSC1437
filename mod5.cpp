@@ -6,6 +6,7 @@ int main()
 string firstname;
 cout << "please enter your first name" << endl;
 cin >> firstname;
+
 string lastname;
 cout << "please enter your last name" << endl;
 cin >> lastname;
